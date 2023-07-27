@@ -9,6 +9,7 @@ function Sample(){
         <>
         <p>{value}</p>
         <p> Hello World</p>
+        <p>kalai</p>
         <button onClick={handleClick}>click</button>
         </>
     )
